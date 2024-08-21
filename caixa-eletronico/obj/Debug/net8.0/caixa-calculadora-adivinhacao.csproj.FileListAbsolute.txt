@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\bin\Debug\net8.0\caixa-calculadora-adivinhacao.exe
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\bin\Debug\net8.0\caixa-calculadora-adivinhacao.deps.json
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\bin\Debug\net8.0\caixa-calculadora-adivinhacao.runtimeconfig.json
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\bin\Debug\net8.0\caixa-calculadora-adivinhacao.dll
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\bin\Debug\net8.0\caixa-calculadora-adivinhacao.pdb
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.dll
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\refint\caixa-calculadora-adivinhacao.dll
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.pdb
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\caixa-calculadora-adivinhacao.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\caixa-calculadora-adivinhacao\obj\Debug\net8.0\ref\caixa-calculadora-adivinhacao.dll
